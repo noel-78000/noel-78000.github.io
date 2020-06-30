@@ -1,0 +1,1 @@
+var JWT_TOKEN_climbing = 'climbing_jwtToken';
